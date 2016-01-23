@@ -1,0 +1,10 @@
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TanksGameEngine.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TanksGameEngine.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TiledSharp.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\obj\Debug\TanksGameEngine.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\obj\Debug\TanksGameEngine.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Debug\TanksGameEngine.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Debug\TanksGameEngine.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Debug\TiledSharp.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.pdb

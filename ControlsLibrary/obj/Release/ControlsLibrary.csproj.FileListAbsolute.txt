@@ -1,0 +1,20 @@
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\CarouselList.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\CarouselList.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb

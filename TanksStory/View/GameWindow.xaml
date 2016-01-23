@@ -1,0 +1,8 @@
+﻿<Window x:Class="TanksStory.View.Screens.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TGameWindow" WindowStyle="None" AllowsTransparency="True" ResizeMode="NoResize" Focusable="False" WindowState="Maximized" Icon="..//Resources/Images/Icon.ico">
+
+    <Frame Name="ContentFrame" NavigationUIVisibility="Hidden" Focusable="False"/>
+
+</Window>
