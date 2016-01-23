@@ -47,6 +47,6 @@ Temporary Items
 .apdisk
 
 /.nuget/*
-/packages/*
+#/packages/*
 *.suo
 *.Cache
