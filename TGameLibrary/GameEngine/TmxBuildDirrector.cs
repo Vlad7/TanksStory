@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media.Imaging;
 using TanksGameEngine.GameEngine.Components;
-
 using TiledSharp;
 
 namespace TanksGameEngine.GameEngine
@@ -17,8 +16,6 @@ namespace TanksGameEngine.GameEngine
         private Dictionary<Int32, ResourceImage> tmxTilesetsImages;
 
         private Dictionary<Int32, List<ResourceFrame>> tmxAnimations; 
-
-        private SortedSet<String> objectNamesBuffer;
 
         private TmxMap tmxMap;
 
@@ -43,8 +40,6 @@ namespace TanksGameEngine.GameEngine
 
             this.tmxAnimations = new Dictionary<Int32, List<ResourceFrame>>();
 
-            this.objectNamesBuffer = new SortedSet<String>();
-
             LoadImagesFromTilesets(tmxMap.Tilesets);
 
             LoadAnimationsFromTilesets(tmxMap.Tilesets);
@@ -65,15 +60,12 @@ namespace TanksGameEngine.GameEngine
         /// </summary>
         public void CreateObjects()
         {
-            FillObjectIdBuffer();
-
             for (int i = 0; i < tmxMap.ObjectGroups.Count; i++)
             {
                 TmxObjectGroup objGroup = tmxMap.ObjectGroups[i];
 
                 for (int j = 0; j < objGroup.Objects.Count; j++)
                 {
-                    TmxObject obj = objGroup.Objects[j];
                     CreateOneObject(objGroup.Objects[j], i, objGroup.Visible);
                 }
             }
@@ -84,9 +76,11 @@ namespace TanksGameEngine.GameEngine
         /// </summary>
         /// <param name="obj"></param>
         /// <param name="zIndex"></param>
-        private void CreateOneObject(TiledSharp.TmxObject obj, Int32 zIndex, Boolean isLayerVisible)
+        private void CreateOneObject(TiledSharp.TmxObjectGroup.TmxObject obj, Int32 zIndex, Boolean isLayerVisible)
         {
-            String name = GetObjectName(obj);
+            String name = obj.Name;
+
+            String type = obj.Type == null ? String.Empty : obj.Type;
 
             Vector size = GetObjectSize(obj);
 
@@ -100,38 +94,16 @@ namespace TanksGameEngine.GameEngine
 
             CollisionShape shape = GetObjectShape(obj);
 
-            builder.BuildSpecialObject(name, obj.Type, loc, size, shape, viewer);          
+            builder.BuildSpecialObject(name, type, loc, size, shape, viewer);          
         }
 
-        /// <summary>
-        /// This object return name of object
-        /// </summary>
-        /// <param name="obj"></param>
-        /// <returns></returns>
-        private string GetObjectName(TiledSharp.TmxObject obj)
-        {
-            string name = string.Empty;
-
-            if (obj.Name != "" && !objectNamesBuffer.Contains(obj.Name))
-            {
-                name = obj.Name;
-
-                objectNamesBuffer.Add(name);
-            }
-            else
-            {
-                name = obj.Id.ToString();
-            }
-
-            return name;
-        }
 
         /// <summary>
         /// This method return rotation angle of object
         /// </summary>
         /// <param name="obj"></param>
         /// <returns></returns>
-        private Double GetObjectRotation(TiledSharp.TmxObject obj)
+        private Double GetObjectRotation(TiledSharp.TmxObjectGroup.TmxObject obj)
         {
             Double rotation = -obj.Rotation;
 
@@ -140,27 +112,6 @@ namespace TanksGameEngine.GameEngine
             rotation %= 360;
 
             return rotation;
-        }
-
-        /// <summary>
-        /// This method fill id's buffer. We will use it, when we want to know if some object has
-        /// name, that other object used earlier.
-        /// </summary>
-        private void FillObjectIdBuffer()
-        {
-            objectNamesBuffer.Clear();
-
-            for (int i = 0; i < tmxMap.ObjectGroups.Count; i++)
-            {
-                TmxObjectGroup objGroup = tmxMap.ObjectGroups[i];
-
-                for (int j = 0; j < objGroup.Objects.Count; j++)
-                {
-                    TiledSharp.TmxObject obj = objGroup.Objects[j];
-
-                    objectNamesBuffer.Add(obj.Id);
-                }
-            }
         }
 
         /// <summary>
@@ -195,7 +146,7 @@ namespace TanksGameEngine.GameEngine
         /// </summary>
         /// <param name="obj"></param>
         /// <returns></returns>
-        private CollisionShape GetObjectShape(TiledSharp.TmxObject obj)
+        private CollisionShape GetObjectShape(TiledSharp.TmxObjectGroup.TmxObject obj)
         {
             CollisionShape shape = CollisionShape.None;
 
@@ -227,7 +178,7 @@ namespace TanksGameEngine.GameEngine
         /// </summary>
         /// <param name="obj"></param>
         /// <returns></returns>
-        private Vector GetObjectSize(TiledSharp.TmxObject obj)
+        private Vector GetObjectSize(TiledSharp.TmxObjectGroup.TmxObject obj)
         {
             Vector size = new Vector(0, 0);
 
