@@ -4,7 +4,7 @@ before_build:
 build:
   verbosity: minimal
 after_build:
-- cmd: packages\Tools.InnoSetup.5.5.6\tools\ISCC Installer\TInstallerScript.iss
+- cmd: packages\Tools.InnoSetup.5.5.8\tools\ISCC Installer\TInstallerScript.iss
 artifacts:
 - path: Installer\Setup\*.exe
   type: WebDeployPackage
