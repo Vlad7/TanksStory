@@ -123,20 +123,20 @@
             }
         }
 
-        /// <summary>
-        /// Direction changed event
-        /// </summary>
-        public event EventHandler<DirectionChangedArgs> DirectionChanged;
+        ///// <summary>
+        ///// Direction changed event
+        ///// </summary>
+        //public event EventHandler<DirectionChangedArgs> DirectionChanged;
 
-        /// <summary>
-        /// Fire button pressed event
-        /// </summary>
-        public event EventHandler<FireChangedArgs> FireChanged;
+        ///// <summary>
+        ///// Fire button pressed event
+        ///// </summary>
+        //public event EventHandler<FireChangedArgs> FireChanged;
 
-        /// <summary>
-        /// Mouse moved event
-        /// </summary>
-        public event EventHandler<MouseChangedArgs> MouseChanged;
+        ///// <summary>
+        ///// Mouse moved event
+        ///// </summary>
+        //public event EventHandler<MouseChangedArgs> MouseChanged;
     }
 
 
