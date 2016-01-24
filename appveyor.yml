@@ -1,4 +1,4 @@
-version: $(APPVEYOR_REPO_TAG_NAME)
+version: 1.0.{build}
 before_build:
   - nuget restore
 build:
@@ -11,7 +11,7 @@ artifacts:
   name: InstallerPackage
 
 deploy:
-  release: TanksStory-v$(appveyor_build_version)
+  release: TanksStory-v$(APPVEYOR_REPO_TAG_NAME)
   description: Another release
   provider: GitHub
   tag: $(APPVEYOR_REPO_TAG_NAME)
