@@ -1,4 +1,4 @@
-version: 1.0.{build}
+version: $(APPVEYOR_REPO_TAG_NAME)
 before_build:
   - nuget restore
 build:
