@@ -11,7 +11,7 @@ artifacts:
   name: InstallerPackage
 
 deploy:
-  release: TanksStory-v$(APPVEYOR_BUILD_VERSION )
+  release: TanksStory-v$(appveyor_build_version)
   description: Another release
   provider: GitHub
   tag: $(APPVEYOR_REPO_TAG_NAME)
