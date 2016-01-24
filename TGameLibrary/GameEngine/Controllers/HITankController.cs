@@ -143,77 +143,77 @@
 
 
 
-    /// <summary>
-    /// Class that store direction args
-    /// </summary>
-    public class DirectionChangedArgs : EventArgs
-    {
-        /// <summary>
-        /// Direction changed arguments class constructor
-        /// </summary>
-        /// <param name="direction"></param>
-        public DirectionChangedArgs(Vector direction)
-        {
-            this.Direction = direction;
-        }
+    ///// <summary>
+    ///// Class that store direction args
+    ///// </summary>
+    //public class DirectionChangedArgs : EventArgs
+    //{
+    //    /// <summary>
+    //    /// Direction changed arguments class constructor
+    //    /// </summary>
+    //    /// <param name="direction"></param>
+    //    public DirectionChangedArgs(Vector direction)
+    //    {
+    //        this.Direction = direction;
+    //    }
 
-        /// <summary>
-        /// Target object direction property
-        /// </summary>
-        public Vector Direction
-        {
-            get;
-            private set;
-        }
-    }
+    //    /// <summary>
+    //    /// Target object direction property
+    //    /// </summary>
+    //    public Vector Direction
+    //    {
+    //        get;
+    //        private set;
+    //    }
+    //}
 
-    /// <summary>
-    /// Fire changed args class
-    /// </summary>
-    public class FireChangedArgs : EventArgs
-    {
-        /// <summary>
-        /// Fire changed arguments class constructor
-        /// </summary>
-        /// <param name="isFire"></param>
-        public FireChangedArgs(Boolean isFire)
-        {
-            this.IsFire = isFire;
-        }
+    ///// <summary>
+    ///// Fire changed args class
+    ///// </summary>
+    //public class FireChangedArgs : EventArgs
+    //{
+    //    /// <summary>
+    //    /// Fire changed arguments class constructor
+    //    /// </summary>
+    //    /// <param name="isFire"></param>
+    //    public FireChangedArgs(Boolean isFire)
+    //    {
+    //        this.IsFire = isFire;
+    //    }
 
-        /// <summary>
-        /// Is fire butto pressed property
-        /// </summary>
-        public Boolean IsFire
-        {
-            get;
-            private set;
-        }
-    }
+    //    /// <summary>
+    //    /// Is fire butto pressed property
+    //    /// </summary>
+    //    public Boolean IsFire
+    //    {
+    //        get;
+    //        private set;
+    //    }
+    //}
 
-    /// <summary>
-    /// Mouse changed args class
-    /// </summary>
-    public class MouseChangedArgs : EventArgs
-    {
-        /// <summary>
-        /// Mouse changed arguments constructor
-        /// </summary>
-        /// <param name="pos"></param>
-        public MouseChangedArgs(Vector pos)
-        {
-            this.Position = pos;
-        }
+    ///// <summary>
+    ///// Mouse changed args class
+    ///// </summary>
+    //public class MouseChangedArgs : EventArgs
+    //{
+    //    /// <summary>
+    //    /// Mouse changed arguments constructor
+    //    /// </summary>
+    //    /// <param name="pos"></param>
+    //    public MouseChangedArgs(Vector pos)
+    //    {
+    //        this.Position = pos;
+    //    }
 
-        /// <summary>
-        /// Target object position property
-        /// </summary>
-        public Vector Position
-        {
-            get;
-            private set;
-        }
-    }
+    //    /// <summary>
+    //    /// Target object position property
+    //    /// </summary>
+    //    public Vector Position
+    //    {
+    //        get;
+    //        private set;
+    //    }
+    //}
 
 
 
