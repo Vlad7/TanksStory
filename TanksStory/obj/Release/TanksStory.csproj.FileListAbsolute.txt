@@ -1,0 +1,204 @@
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\TanksStory.csprojResolveAssemblyReference.cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\TanksStory.Properties.Resources.resources
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\TanksStory.csproj.GenerateResource.Cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Release\TanksStory.exe.config
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\View\Screens\Start_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\View\Screens\Start_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\App.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\TanksStory_MarkupCompile.cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Release\TanksStory.exe
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Release\TanksStory.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Release\TanksGameEngine.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Release\TiledSharp.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Release\TanksGameEngine.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Release\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\TanksStory.g.resources
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\TanksStory.exe
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\TanksStory.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\View\GameWindow.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Release\View\GameWindow.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Release\TanksStory.exe.config
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\TanksStory.exe
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\TanksStory.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\TanksStory.csprojResolveAssemblyReference.cache
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\View\GameWindow.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\View\Screens\Start_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\View\GameWindow.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\View\Screens\Start_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\App.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\TanksStory_MarkupCompile.cache
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Release\TanksStory.exe
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Release\TanksStory.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Release\TanksGameEngine.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Release\TiledSharp.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Release\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Release\TanksGameEngine.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\TanksStory.g.resources
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\TanksStory.Properties.Resources.resources
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Release\TanksStory.csproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\bin\Release\TanksStory.exe.config
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\bin\Release\TanksStory.exe
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\bin\Release\TanksStory.pdb
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\bin\Release\ControlsLibrary.dll
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\bin\Release\TanksGameEngine.dll
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\bin\Release\TiledSharp.dll
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\bin\Release\ControlsLibrary.pdb
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\bin\Release\TanksGameEngine.pdb
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\View\Screens\GameProcess_Screen.baml
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\View\GameWindow.baml
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\View\Screens\SelectGame_Screen.baml
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\View\Screens\Start_Screen.baml
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\View\Screens\GameProcess_Screen.g.cs
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\View\GameWindow.g.cs
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\View\Screens\SelectGame_Screen.g.cs
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\View\Screens\Start_Screen.g.cs
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\App.g.cs
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory_MarkupCompile.cache
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory.g.resources
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory.Properties.Resources.resources
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory.csproj.CopyComplete
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory.exe
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TanksStory\obj\Release\TanksStory.pdb
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.exe.config
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.exe
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.pdb
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\bin\Release\ControlsLibrary.dll
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksGameEngine.dll
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\bin\Release\TiledSharp.dll
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\bin\Release\ControlsLibrary.pdb
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksGameEngine.pdb
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.baml
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\View\GameWindow.baml
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.baml
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\Start_Screen.baml
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.g.cs
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\View\GameWindow.g.cs
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.g.cs
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\Start_Screen.g.cs
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\App.g.cs
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory_MarkupCompile.cache
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.g.resources
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.Properties.Resources.resources
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.CopyComplete
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.exe
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.pdb
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.exe.config
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.exe
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.pdb
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\ControlsLibrary.dll
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksGameEngine.dll
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TiledSharp.dll
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\ControlsLibrary.pdb
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksGameEngine.pdb
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.AssemblyReference.cache
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.baml
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\GameWindow.baml
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.baml
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\Start_Screen.baml
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.g.cs
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\GameWindow.g.cs
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.g.cs
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\Start_Screen.g.cs
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\App.g.cs
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory_MarkupCompile.cache
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.g.resources
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.Properties.Resources.resources
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.GenerateResource.cache
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.CoreCompileInputs.cache
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.CopyComplete
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.exe
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.pdb
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.exe.config
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.exe
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksStory.pdb
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\ControlsLibrary.dll
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksGameEngine.dll
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TiledSharp.dll
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\ControlsLibrary.pdb
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\bin\Release\TanksGameEngine.pdb
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.AssemblyReference.cache
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.baml
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\GameWindow.baml
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.baml
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\Start_Screen.baml
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.g.cs
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\GameWindow.g.cs
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.g.cs
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\View\Screens\Start_Screen.g.cs
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\App.g.cs
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory_MarkupCompile.cache
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.g.resources
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.Properties.Resources.resources
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.GenerateResource.cache
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.CoreCompileInputs.cache
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.csproj.CopyComplete
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.exe
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\TanksStory\obj\Release\TanksStory.pdb
+D:\TanksStory\TanksStory\bin\Release\TanksStory.exe.config
+D:\TanksStory\TanksStory\bin\Release\TanksStory.exe
+D:\TanksStory\TanksStory\bin\Release\TanksStory.pdb
+D:\TanksStory\TanksStory\bin\Release\ControlsLibrary.dll
+D:\TanksStory\TanksStory\bin\Release\TanksGameEngine.dll
+D:\TanksStory\TanksStory\bin\Release\TiledSharp.dll
+D:\TanksStory\TanksStory\bin\Release\ControlsLibrary.pdb
+D:\TanksStory\TanksStory\bin\Release\TanksGameEngine.pdb
+D:\TanksStory\TanksStory\obj\Release\TanksStory.csproj.AssemblyReference.cache
+D:\TanksStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.baml
+D:\TanksStory\TanksStory\obj\Release\View\GameWindow.baml
+D:\TanksStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.baml
+D:\TanksStory\TanksStory\obj\Release\View\Screens\Start_Screen.baml
+D:\TanksStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.g.cs
+D:\TanksStory\TanksStory\obj\Release\View\GameWindow.g.cs
+D:\TanksStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.g.cs
+D:\TanksStory\TanksStory\obj\Release\View\Screens\Start_Screen.g.cs
+D:\TanksStory\TanksStory\obj\Release\App.g.cs
+D:\TanksStory\TanksStory\obj\Release\TanksStory_MarkupCompile.cache
+D:\TanksStory\TanksStory\obj\Release\TanksStory.g.resources
+D:\TanksStory\TanksStory\obj\Release\TanksStory.Properties.Resources.resources
+D:\TanksStory\TanksStory\obj\Release\TanksStory.csproj.GenerateResource.cache
+D:\TanksStory\TanksStory\obj\Release\TanksStory.csproj.CoreCompileInputs.cache
+D:\TanksStory\TanksStory\obj\Release\TanksStory.csproj.CopyComplete
+D:\TanksStory\TanksStory\obj\Release\TanksStory.exe
+D:\TanksStory\TanksStory\obj\Release\TanksStory.pdb
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\bin\Release\TanksStory.exe.config
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\bin\Release\TanksStory.exe
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\bin\Release\TanksStory.pdb
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\bin\Release\ControlsLibrary.dll
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\bin\Release\TanksGameEngine.dll
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\bin\Release\TiledSharp.dll
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\bin\Release\ControlsLibrary.pdb
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\bin\Release\TanksGameEngine.pdb
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory.csproj.AssemblyReference.cache
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.baml
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\View\GameWindow.baml
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.baml
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\View\Screens\Start_Screen.baml
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\View\Screens\GameProcess_Screen.g.cs
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\View\GameWindow.g.cs
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\View\Screens\SelectGame_Screen.g.cs
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\View\Screens\Start_Screen.g.cs
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\App.g.cs
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory_MarkupCompile.cache
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory.g.resources
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory.Properties.Resources.resources
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory.csproj.GenerateResource.cache
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory.csproj.CoreCompileInputs.cache
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory.csproj.CopyComplete
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory.exe
+D:\TanksStoryCatarpillar\TanksStory\TanksStory\obj\Release\TanksStory.pdb

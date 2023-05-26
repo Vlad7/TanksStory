@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="ControlsLibrary.CarouselList"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="700" Name="Carousel" Loaded="Carousel_Loaded">
+    <Border>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Canvas Name="CarouselCanvas" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3">
+
+            </Canvas>
+            <Label Name="lblCurrentName" Margin="0,20,0,20"  Grid.Row="1" Grid.Column="1" Content="Current image" Foreground="Black" FontSize="42" FontFamily="Times New Roman">
+                <Label.Effect>
+                    <DropShadowEffect Color="White" BlurRadius="100" ShadowDepth="0" RenderingBias="Quality"/>
+                </Label.Effect>
+
+            </Label>
+            <Button Name="btnPrevious" HorizontalAlignment="Left" Content="Previous"  Grid.Row="1" Grid.Column="0" Margin="160,30,0,30" MaxWidth="100" FontSize="20"  Click="btnPrevious_Click" Background="#FFF7C518" Width="90">
+
+            </Button>
+            <Button Name="btnNext" HorizontalAlignment="Right" Content="Next" Grid.Row="1" Grid.Column="2" Margin="0,30,160,30" MaxWidth="100" FontSize="20" Click="btnNext_Click" Background="#FFF7C518" Width="86">
+
+            </Button>
+        </Grid>
+    </Border>
+</UserControl>

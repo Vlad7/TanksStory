@@ -1,0 +1,48 @@
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Debug\TanksStory.exe.config
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\TanksStory.csprojResolveAssemblyReference.cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\TanksStory.Properties.Resources.resources
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\TanksStory.csproj.GenerateResource.Cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Debug\TanksStory.exe
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Debug\TanksStory.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Debug\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Debug\TanksGameEngine.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Debug\TiledSharp.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Debug\TanksGameEngine.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\bin\Debug\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\View\Screens\GameProcess_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\View\Screens\SelectGame_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\View\Screens\Start_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\View\Screens\GameProcess_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\View\Screens\SelectGame_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\View\Screens\Start_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\App.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\TanksStory_MarkupCompile.cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\TanksStory.g.resources
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\TanksStory.exe
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\TanksStory.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\View\GameWindow.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\TanksStory\obj\Debug\View\GameWindow.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Debug\TanksStory.exe.config
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.exe
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Debug\TanksStory.exe
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Debug\TanksStory.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Debug\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Debug\TanksGameEngine.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Debug\TiledSharp.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Debug\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\bin\Debug\TanksGameEngine.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.csprojResolveAssemblyReference.cache
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\View\Screens\GameProcess_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\View\GameWindow.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\View\Screens\SelectGame_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\View\Screens\Start_Screen.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\View\Screens\GameProcess_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\View\GameWindow.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\View\Screens\SelectGame_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\View\Screens\Start_Screen.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\App.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory_MarkupCompile.cache
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.g.resources
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.Properties.Resources.resources
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.csproj.GenerateResource.Cache

@@ -1,0 +1,76 @@
+﻿<Page x:Class="TanksStory.View.Screens.Start_Screen"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1200" Focusable="True" Title="Start_Screen" FocusManager.FocusedElement="{Binding RelativeSource={RelativeSource Self}}"> 
+    <Page.Background>
+        <ImageBrush ImageSource="../..//Resources/Images/IntroBackground.jpg"/>
+    </Page.Background>
+    <Page.InputBindings>
+        <KeyBinding Key="Enter" Command="{Binding ClickCommand}" />
+    </Page.InputBindings>
+        <Grid Name="Start_Grid" UseLayoutRounding="True" Focusable="True">       
+        <Grid.RowDefinitions>         
+            <RowDefinition Height="*"></RowDefinition>          
+            <RowDefinition Height="Auto" ></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image RenderTransformOrigin ="0.5,0.5" Name="imgTitle" HorizontalAlignment="Center"  Source ="../..//Resources/Images/Notification.png" Width="224" Focusable="True" Margin="955,61,21,506">
+            <Image.RenderTransform>
+                <ScaleTransform x:Name="scaleTransform"  
+                        ScaleX="2" ScaleY="2"  />
+            </Image.RenderTransform>
+            <Image.Triggers>
+                <EventTrigger RoutedEvent="Image.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>     
+                            <DoubleAnimation Storyboard.TargetName="imgTitle"
+                                Storyboard.TargetProperty="Opacity" 
+                                From="1.0" To="0.9" Duration="0:0:0.5" AccelerationRatio="0.8" DecelerationRatio="0.2"
+                                AutoReverse="True" RepeatBehavior="5"/>
+                            <DoubleAnimation Storyboard.TargetName="scaleTransform"
+                                         Storyboard.TargetProperty="ScaleX" AccelerationRatio="0.8" DecelerationRatio="0.2"
+                                         From="0.95" To="1.05" Duration="0:0:0.5"
+                                         AutoReverse="True" RepeatBehavior="Forever"/>
+                            <DoubleAnimation Storyboard.TargetName="scaleTransform"
+                                         Storyboard.TargetProperty="ScaleY" AccelerationRatio="0.8" DecelerationRatio="0.2"
+                                         From="0.95" To="1.05" Duration="0:0:0.5"
+                                         AutoReverse="True" RepeatBehavior="Forever"/>
+
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Image.Triggers>
+        </Image>
+
+        <Label Name="lblPressBtn"  Width="380" Foreground="Black" Focusable="True" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="36" FontFamily="Buxton Sketch" Margin="450,0,370,39">
+            <Label.InputBindings>
+           
+            </Label.InputBindings>
+        <Label.Content>
+            Press ENTER to start..
+            </Label.Content>
+            <Label.Triggers>
+                <EventTrigger RoutedEvent="Label.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="lblPressBtn"
+                                Storyboard.TargetProperty="Opacity" AccelerationRatio="1"
+                                From="1.0" To="0" Duration="0:0:1"
+                                AutoReverse="True" RepeatBehavior="Forever"/>              
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Label.Triggers>
+        </Label>
+        <TextBlock HorizontalAlignment="Left" Height="300" Focusable="True" Margin="404,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="546" FontSize="100" FontFamily="Times New Roman">
+            <Run FontSize="120" Text="Tanks "/>
+            <Run Text="&#xA;     "/>
+            <Run Text="  "/>
+            <Run Language="uk-ua" Text=" "/>
+            <Run FontSize="90" Text="Story..."/>
+        </TextBlock>
+
+    </Grid>
+</Page>

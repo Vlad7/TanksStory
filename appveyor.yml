@@ -1,0 +1,27 @@
+version: 1.0.{build}
+before_build:
+  - nuget restore
+build:
+  verbosity: minimal
+after_build:
+- cmd: packages\Tools.InnoSetup.5.5.8\tools\ISCC Installer\TInstallerScript.iss
+artifacts:
+- path: Installer\Setup\*.exe
+  type: WebDeployPackage
+  name: InstallerPackage
+
+deploy:
+  release: TanksStory-v$(appveyor_build_version)
+  description: Another release
+  provider: GitHub
+  tag: $(APPVEYOR_REPO_TAG_NAME)
+  
+  auth_token:
+    secure: DcbmWxnyCbOrvygq0dyUsI6ZTr9MQHjLQdIa2pL16P7JfvtnP4lLrUYNZcEUuobF
+  artifact: InstallerPackage
+  draft: false
+  prerelease: false
+  on:
+    branch: master
+    appveyor_repo_tag: true
+

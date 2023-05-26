@@ -1,0 +1,91 @@
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\CarouselList.baml
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\CarouselList.baml
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\bin\Release\ControlsLibrary.dll
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\CarouselList.baml
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\CarouselList.g.cs
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\ControlsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\ControlsLibrary.dll
+C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\CarouselList.baml
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+C:\Users\Влад\Desktop\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.AssemblyReference.cache
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\CarouselList.baml
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.cache
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.CoreCompileInputs.cache
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+D:\KPI\Study\Архив\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.AssemblyReference.cache
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\CarouselList.baml
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.cache
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.CoreCompileInputs.cache
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+D:\KPI\ЛОКАЛЬНЕ СХОВИЩЕ\Study\Капиляроскопия и История Сладжей\С компьютера ASUS\С компьютера ASUS\SladgesStory\SladgesStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+D:\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+D:\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+D:\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.AssemblyReference.cache
+D:\TanksStory\ControlsLibrary\obj\Release\CarouselList.baml
+D:\TanksStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+D:\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+D:\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+D:\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+D:\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.cache
+D:\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.CoreCompileInputs.cache
+D:\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+D:\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.dll
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\bin\Release\ControlsLibrary.pdb
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.AssemblyReference.cache
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\CarouselList.baml
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\CarouselList.g.cs
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary_MarkupCompile.cache
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.g.resources
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.cache
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.CoreCompileInputs.cache
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
+D:\TanksStoryCatarpillar\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb

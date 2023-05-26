@@ -1,0 +1,10 @@
+D:\Study\II Курс\II Семестр\СТП\Labs\TGame\TGameLibrary\obj\Debug\TGameLibrary.csprojResolveAssemblyReference.cache
+D:\Study\II Курс\II Семестр\СТП\Labs\TGame\TGameLibrary\bin\Debug\TGameLibrary.dll
+D:\Study\II Курс\II Семестр\СТП\Labs\TGame\TGameLibrary\bin\Debug\TGameLibrary.pdb
+D:\Study\II Курс\II Семестр\СТП\Labs\TGame\TGameLibrary\obj\Debug\TGameLibrary.dll
+D:\Study\II Курс\II Семестр\СТП\Labs\TGame\TGameLibrary\obj\Debug\TGameLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TGameLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TGameLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\obj\Debug\TGameLibrary.dll
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\obj\Debug\TGameLibrary.pdb
+D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TiledSharp.dll
