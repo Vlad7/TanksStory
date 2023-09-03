@@ -53,3 +53,13 @@ D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csp
 D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CopyComplete
 D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.dll
 D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.pdb
+D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll
+D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.pdb
+D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
+D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
+D:\Projects\TanksStory\TGameLibrary\bin\Release\TiledSharp.dll
+D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.AssemblyReference.cache
+D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CoreCompileInputs.cache
+D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CopyComplete
+D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.dll
+D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.pdb

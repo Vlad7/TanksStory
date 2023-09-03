@@ -6,7 +6,9 @@ namespace TanksGameEngine.TanksGame.Objects.CharacterParts.Catarpillars
     using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
+    using System.Windows;
     using TanksGameEngine.GameEngine;
+    using TanksGameEngine.GameEngine.Components;
 
     /// <summary>
     /// Tank catarpillar class
@@ -20,6 +22,8 @@ namespace TanksGameEngine.TanksGame.Objects.CharacterParts.Catarpillars
         {
 
         }
+
+        
 
         ///// <summary>
         ///// Control attribute property

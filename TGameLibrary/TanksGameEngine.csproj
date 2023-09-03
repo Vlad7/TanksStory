@@ -71,6 +71,7 @@
       <Link>SharedAssemblyInfo.cs</Link>
     </Compile>
     <Compile Include="GameEngine\Components\Frame.cs" />
+    <Compile Include="GameEngine\Components\Notes.cs" />
     <Compile Include="GameEngine\Components\Sprite.cs" />
     <Compile Include="GameEngine\Controllers\AITankStates\AttackState.cs" />
     <Compile Include="GameEngine\Controllers\AITankStates\SearchState.cs" />

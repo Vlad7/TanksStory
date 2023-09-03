@@ -244,6 +244,7 @@ namespace TanksGameEngine.GameEngine
 
             tank.Engine = engine;
             tank.Engine.Enabled = true;
+            
 
             if(tank.Name.ToLower() =="player")
                 tank.Body =  BuildMachineBody("Body", @"Maps/Textures/dbody128_without_catarpillar.png");
@@ -314,6 +315,17 @@ namespace TanksGameEngine.GameEngine
         {
             Catarpillar catarpillar = new Catarpillar(name);
 
+            Int32 duration = 100;
+
+            List<BitmapImage> images = TmxBuildDirrector.GetImagesFromCropedImage(imagePath, map.TileSize, map.TileSize, map.TileSize * 2, map.TileSize * 2);
+            List<Frame> frames = new List<Frame>();
+
+
+            Frame frame1 = new Frame(new Sprite(images[0], (int)(map.TileSize / 1.41), (int)(map.TileSize / 1.41)), duration);
+            Frame frame2 = new Frame(new Sprite(images[1], (int)(map.TileSize / 1.41), (int)(map.TileSize / 1.41)), duration);
+            Frame frame3 = new Frame(new Sprite(images[2], (int)(map.TileSize / 1.41), (int)(map.TileSize / 1.41)), duration);
+            Frame frame4 = new Frame(new Sprite(images[3], (int)(map.TileSize / 1.41), (int)(map.TileSize / 1.41)), duration);
+
             catarpillar.LocalAngle = 0;
             catarpillar.LocalCenter = new Vector(0, 0);
             catarpillar.LocalZIndex = 1;
@@ -322,7 +334,18 @@ namespace TanksGameEngine.GameEngine
 
             catarpillar.Size = new Vector(map.TileSize / 2.82, map.TileSize / 2.82);
 
-            catarpillar.Viewer = new Viewer(new Sprite(imagePath, (int)(map.TileSize / 1.41), (int)(map.TileSize/1.41)));
+            
+            frames.Add(frame1);
+            frames.Add(frame2);
+            frames.Add(frame3);
+            frames.Add(frame4);
+
+            Animation animation = new Animation(frames);
+
+
+
+            //catarpillar.Viewer = new Viewer(new Sprite(imagePath, (int)(map.TileSize / 1.41), (int)(map.TileSize/1.41)));
+            catarpillar.Viewer = animation;
 
             //map.AddObject(body);
 

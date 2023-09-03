@@ -94,6 +94,7 @@
 
 
             UpdateTargetDirection(direction, dt);
+          
             UpdateGunDirection(towerDirection ,dt);
 
             if (fireState == true)

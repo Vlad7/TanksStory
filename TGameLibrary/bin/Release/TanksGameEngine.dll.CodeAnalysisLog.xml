@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
 <FxCopReport Version="16.0">
  <Targets>
-  <Target Name="D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll">
+  <Target Name="D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll">
    <Modules>
     <Module Name="tanksgameengine.dll">
      <Namespaces>
@@ -12,36 +12,36 @@
          <Members>
           <Member Name="#AllItems()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="105">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.AllItems()', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="105">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.AllItems()', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#Delete(System.Guid)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="238">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.Delete(Guid)', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="238">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.Delete(Guid)', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#GetItem(System.Guid)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="141">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.GetItem(Guid)', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="141">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.GetItem(Guid)', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#Insert(!0)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="187">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.Insert(T)', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName', 'string.Join(", ", Params.Keys)', 'string.Join(", @", Params.Keys)'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="187">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.Insert(T)', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName', 'string.Join(", ", Params.Keys)', 'string.Join(", @", Params.Keys)'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#Update(!0)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="218">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.Update(T)', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName', 'string.Join(", ", ParamNames)'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="218">Строка запроса, переданная 'SqlCommand.SqlCommand(string, SqlConnection)' в 'ActiveRecord&lt;T&gt;.Update(T)', может содержать следующие переменные 'ActiveRecord&lt;T&gt;.TableName', 'string.Join(", ", ParamNames)'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
             </Message>
            </Messages>
           </Member>
@@ -51,7 +51,7 @@
          <Members>
           <Member Name="#Crashed" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="Breaking">
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="Breaking">
              <Issue Name="First" Certainty="95" Level="Error">Объявите первый параметр для 'Action&lt;GameObject&gt;' как объект с именем "sender".</Issue>
              <Issue Name="Second" Certainty="95" Level="Error">Объявите второй параметр для 'Action&lt;GameObject&gt;' как EventArgs или экземпляр типа, расширяющего EventArgs, и присвойте ему имя "e".</Issue>
             </Message>
@@ -59,7 +59,7 @@
           </Member>
           <Member Name="#LifeChanged" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="Breaking">
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="Breaking">
              <Issue Name="First" Certainty="95" Level="Error">Объявите первый параметр для 'Action&lt;GameObject&gt;' как объект с именем "sender".</Issue>
              <Issue Name="Second" Certainty="95" Level="Error">Объявите второй параметр для 'Action&lt;GameObject&gt;' как EventArgs или экземпляр типа, расширяющего EventArgs, и присвойте ему имя "e".</Issue>
             </Message>
@@ -67,7 +67,7 @@
           </Member>
           <Member Name="#LocationChanged" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="Breaking">
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="Breaking">
              <Issue Name="First" Certainty="95" Level="Error">Объявите первый параметр для 'Action&lt;GameObject&gt;' как объект с именем "sender".</Issue>
              <Issue Name="Second" Certainty="95" Level="Error">Объявите второй параметр для 'Action&lt;GameObject&gt;' как EventArgs или экземпляр типа, расширяющего EventArgs, и присвойте ему имя "e".</Issue>
             </Message>
@@ -79,13 +79,13 @@
          <Members>
           <Member Name="#mciSendString(System.String,System.Text.StringBuilder,System.Int32,System.IntPtr)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="Breaking">
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="Breaking">
              <Issue Certainty="95" Level="CriticalWarning">Так как метод является методом P/Invoke, 'SoundManager.mciSendString(string, StringBuilder, int, IntPtr)' должен быть определен в классе с именем NativeMethods, SafeNativeMethods или UnsafeNativeMethods.</Issue>
             </Message>
-            <Message Id="0" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="NonBreaking">
+            <Message Id="0" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="NonBreaking">
              <Issue Name="ParameterImplicitAnsi" Certainty="75" Level="Error">Чтобы уменьшить угрозу безопасности, следует маршалировать параметр 'command' как Юникод, установив значение CharSet.Unicode для DllImport.CharSet, либо явно маршалировав параметр как UnmanagedType.LPWStr. Если необходимо упаковать и передать эту строку как ANSI или зависящую от системы, укажите MarshalAs явно и установите BestFitMapping=false; для обеспечения дополнительной безопасности также установите ThrowOnUnmappableChar=true.</Issue>
             </Message>
-            <Message Id="1" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2023-05-26 18:08:47Z" FixCategory="NonBreaking">
+            <Message Id="1" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2023-09-02 15:05:56Z" FixCategory="NonBreaking">
              <Issue Name="ParameterImplicitAnsi" Certainty="75" Level="Error">Чтобы уменьшить угрозу безопасности, следует маршалировать параметр 'buffer' как Юникод, установив значение CharSet.Unicode для DllImport.CharSet, либо явно маршалировав параметр как UnmanagedType.LPWStr. Если необходимо упаковать и передать эту строку как ANSI или зависящую от системы, укажите MarshalAs явно и установите BestFitMapping=false; для обеспечения дополнительной безопасности также установите ThrowOnUnmappableChar=true.</Issue>
             </Message>
            </Messages>

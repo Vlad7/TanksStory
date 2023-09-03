@@ -48,6 +48,10 @@ namespace TanksGameEngine.GameEngine.Controllers
 
             Target.Engine.translateSpeed /= 1.2;
             Target.Engine.rotationSpeed /= 1.3;
+         
+
+           
+            
         }
 
 
