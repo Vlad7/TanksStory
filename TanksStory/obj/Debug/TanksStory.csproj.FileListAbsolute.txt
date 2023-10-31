@@ -46,3 +46,29 @@ D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\Tanks
 D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.g.resources
 D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.Properties.Resources.resources
 D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TanksStory\obj\Debug\TanksStory.csproj.GenerateResource.Cache
+D:\Projects\TanksStory\TanksStory\bin\Debug\TanksStory.exe.config
+D:\Projects\TanksStory\TanksStory\bin\Debug\TanksStory.exe
+D:\Projects\TanksStory\TanksStory\bin\Debug\TanksStory.pdb
+D:\Projects\TanksStory\TanksStory\bin\Debug\ControlsLibrary.dll
+D:\Projects\TanksStory\TanksStory\bin\Debug\TanksGameEngine.dll
+D:\Projects\TanksStory\TanksStory\bin\Debug\TiledSharp.dll
+D:\Projects\TanksStory\TanksStory\bin\Debug\ControlsLibrary.pdb
+D:\Projects\TanksStory\TanksStory\bin\Debug\TanksGameEngine.pdb
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory.csproj.AssemblyReference.cache
+D:\Projects\TanksStory\TanksStory\obj\Debug\View\Screens\GameProcess_Screen.baml
+D:\Projects\TanksStory\TanksStory\obj\Debug\View\GameWindow.baml
+D:\Projects\TanksStory\TanksStory\obj\Debug\View\Screens\SelectGame_Screen.baml
+D:\Projects\TanksStory\TanksStory\obj\Debug\View\Screens\Start_Screen.baml
+D:\Projects\TanksStory\TanksStory\obj\Debug\View\Screens\GameProcess_Screen.g.cs
+D:\Projects\TanksStory\TanksStory\obj\Debug\View\GameWindow.g.cs
+D:\Projects\TanksStory\TanksStory\obj\Debug\View\Screens\SelectGame_Screen.g.cs
+D:\Projects\TanksStory\TanksStory\obj\Debug\View\Screens\Start_Screen.g.cs
+D:\Projects\TanksStory\TanksStory\obj\Debug\App.g.cs
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory_MarkupCompile.cache
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory.g.resources
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory.Properties.Resources.resources
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory.csproj.GenerateResource.cache
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory.csproj.CoreCompileInputs.cache
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory.csproj.CopyComplete
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory.exe
+D:\Projects\TanksStory\TanksStory\obj\Debug\TanksStory.pdb

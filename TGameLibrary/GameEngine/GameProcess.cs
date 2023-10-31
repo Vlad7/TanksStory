@@ -33,7 +33,7 @@ namespace TanksGameEngine.GameEngine
         /// <summary>
         /// Frames per second
         /// </summary>
-        private int FPS = 30;
+         private int FPS = 30;
 
         /// <summary>
         /// Timer tick interval
@@ -178,6 +178,7 @@ namespace TanksGameEngine.GameEngine
                 }
 
                 gameMap.Update(updateInterval);
+
     
                 Manager.CollisionHandlerRun();
 

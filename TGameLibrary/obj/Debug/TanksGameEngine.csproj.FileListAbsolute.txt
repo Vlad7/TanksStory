@@ -1,10 +1,22 @@
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TanksGameEngine.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TanksGameEngine.pdb
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Debug\TiledSharp.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\obj\Debug\TanksGameEngine.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\obj\Debug\TanksGameEngine.pdb
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Debug\TanksGameEngine.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Debug\TanksGameEngine.pdb
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Debug\TiledSharp.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.pdb
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksGame/TGameLibrary/bin/Debug/TanksGameEngine.dll
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksGame/TGameLibrary/bin/Debug/TanksGameEngine.pdb
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksGame/TGameLibrary/bin/Debug/TiledSharp.dll
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksGame/TGameLibrary/obj/Debug/TanksGameEngine.dll
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksGame/TGameLibrary/obj/Debug/TanksGameEngine.pdb
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksStory/TGameLibrary/bin/Debug/TanksGameEngine.dll
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksStory/TGameLibrary/bin/Debug/TanksGameEngine.pdb
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksStory/TGameLibrary/bin/Debug/TiledSharp.dll
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksStory/TGameLibrary/obj/Debug/TanksGameEngine.dll
+D:/Study/III Курс/I Семестр/СТП - 2/Project Tanks/TanksStory/TGameLibrary/obj/Debug/TanksGameEngine.pdb
+/media/vladyslav/Локальный диск/Projects/TanksStory/TGameLibrary/obj/Debug/TanksGameEngine.csproj.AssemblyReference.cache
+/media/vladyslav/Локальный диск/Projects/TanksStory/TGameLibrary/obj/Debug/TanksGameEngine.csproj.CoreCompileInputs.cache
+/media/vladyslav/Локальный диск/Projects/TanksStory/TGameLibrary/obj/Debug/TanksGameEngine.dll
+/media/vladyslav/Локальный диск/Projects/TanksStory/TGameLibrary/obj/Debug/TanksGameEngine.pdb
+D:\Projects\TanksStory\TGameLibrary\bin\Debug\TanksGameEngine.dll
+D:\Projects\TanksStory\TGameLibrary\bin\Debug\TanksGameEngine.pdb
+D:\Projects\TanksStory\TGameLibrary\bin\Debug\TiledSharp.dll
+D:\Projects\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.csproj.CoreCompileInputs.cache
+D:\Projects\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.csproj.CopyComplete
+D:\Projects\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.dll
+D:\Projects\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.pdb
+D:\Projects\TanksStory\TGameLibrary\obj\Debug\TanksGameEngine.csproj.AssemblyReference.cache

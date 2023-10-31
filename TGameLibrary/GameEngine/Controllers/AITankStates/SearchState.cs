@@ -70,11 +70,15 @@ namespace TanksGameEngine.GameEngine.Controllers.AITankStates
 
             Vector tCorner = map.GetSectorLocation(controller.Target.AbsoluteCenter);
             Vector pCorner = map.GetSectorLocation(GameProcess.Current_Game.Player.AbsoluteCenter);
-
+           
             Point start = new Point((int)tCorner.X, (int)tCorner.Y);
-            Point goal =  new Point((int)pCorner.X, (int)pCorner.Y);
+            Point goal = new Point((int)pCorner.X, (int)pCorner.Y);
 
-            List<Point> path = AStarSearch.FindPath(map, start, goal);       
+            
+
+            List<Point> path = AStarSearch.FindPath(map, start, goal);
+
+            
 
             if (path == null)
             {

@@ -543,7 +543,7 @@ namespace TanksGameEngine.GameEngine
         {
             foreach (PrimitiveObject pObj in Grid[(int)corner.Y, (int)corner.X].ObjectsInCorner)
             {
-                if (pObj.IsSolid() && pObj.GetType().Name != "Body" && pObj.GetType().Name != "Capsule")
+                if (pObj.IsSolid() && pObj.GetType().Name != "Catarpillar" && pObj.GetType().Name != "Capsule")
                     return true;
               
             }

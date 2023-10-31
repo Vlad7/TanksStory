@@ -9,3 +9,14 @@ D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\Controls
 D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.dll
 D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.pdb
 D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\TanksStory\ControlsLibrary\bin\Debug\ControlsLibrary.dll
+D:\Projects\TanksStory\ControlsLibrary\bin\Debug\ControlsLibrary.pdb
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\CarouselList.baml
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\CarouselList.g.cs
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary_MarkupCompile.cache
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.g.resources
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.dll
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.pdb

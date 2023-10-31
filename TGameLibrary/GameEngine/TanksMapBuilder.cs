@@ -299,7 +299,7 @@ namespace TanksGameEngine.GameEngine
             body.LocalCenter = new Vector(0, 0);
             body.LocalZIndex = 1;
 
-            body.CollisionShape = CollisionShape.Rectangle ;
+            body.CollisionShape = CollisionShape.None ;
 
             body.Size = new Vector(map.TileSize / 2.82, map.TileSize / 2.82);
 
