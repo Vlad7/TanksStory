@@ -82,6 +82,8 @@ namespace TanksGameEngine.TanksGame.Objects.Characters
         public void Fire()
         {
             Gun.Fire();
+
+          
         }  
 
         public override void Collide(GameObject gameObject, Vector direction, double overlap)
