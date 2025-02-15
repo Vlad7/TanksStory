@@ -75,7 +75,7 @@ namespace TanksGameEngine.TanksGame.Objects.CharacterParts.Guns
       
             Vector tower_end = new Vector(Math.Cos(angle_rad), Math.Sin(angle_rad)) * Size.X + AbsoluteCenter;
    
-            Locator loc = new Locator(tower_end, AbsoluteAngle + 45, 5);
+            Locator loc = new Locator(tower_end, AbsoluteAngle, 5);
 
             Engine engine = new Engine(new Vector(CapsuleVelocity * Math.Cos(angle_rad), CapsuleVelocity * Math.Sin(angle_rad)), new Vector(0, 0), 0, 0);
 

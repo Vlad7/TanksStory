@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-up" width="30" height="30" tilewidth="128" tileheight="128" infinite="0" nextlayerid="3" nextobjectid="492">
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-up" width="30" height="30" tilewidth="128" tileheight="128" infinite="0" nextlayerid="3" nextobjectid="513">
  <tileset firstgid="1" name="Tiles" tilewidth="128" tileheight="128" tilecount="4" columns="0">
   <tile id="0">
    <image width="128" height="128" source="Textures/Tiles/Block.png"/>
@@ -25,6 +25,17 @@
  </tileset>
  <tileset firstgid="105" source="Textures/Tiles/Bricks.tsx"/>
  <tileset firstgid="106" source="Textures/Paper.tsx"/>
+ <tileset firstgid="107" name="Cross" tilewidth="1280" tileheight="1024" tilecount="2" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="1280" height="1024" source="Textures/Tiles/desktop.png.jpg"/>
+  </tile>
+  <tile id="1">
+   <image width="128" height="128" source="Textures/Tiles/Cross.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="109" source="../../../../../../TanksStory/TanksStory/bin/Release/Maps/Textures/Tiles/Bricks.tsx"/>
+ <tileset firstgid="110" source="Textures/Tiles/Capillaries.tsx"/>
  <layer id="1" name="Background" width="30" height="30">
   <data>
    <tile gid="106"/>
@@ -960,15 +971,9 @@
   <object id="28" gid="1" x="0" y="3200" width="128" height="128"/>
   <object id="29" gid="1" x="3712" y="1152" width="128" height="128"/>
   <object id="30" gid="1" x="3712" y="896" width="128" height="128"/>
-  <object id="31" gid="1" x="3712" y="512" width="128" height="128"/>
-  <object id="32" gid="1" x="3712" y="256" width="128" height="128"/>
-  <object id="33" gid="1" x="3712" y="384" width="128" height="128"/>
   <object id="34" gid="1" x="3712" y="1664" width="128" height="128"/>
   <object id="35" gid="1" x="3712" y="1024" width="128" height="128"/>
-  <object id="37" gid="1" x="3712" y="640" width="128" height="128"/>
   <object id="38" gid="1" x="3712" y="1792" width="128" height="128"/>
-  <object id="39" gid="1" x="3712" y="768" width="128" height="128"/>
-  <object id="40" gid="1" x="3712" y="128" width="128" height="128"/>
   <object id="41" gid="1" x="3712" y="1280" width="128" height="128"/>
   <object id="43" gid="1" x="3712" y="2944" width="128" height="128"/>
   <object id="44" gid="1" x="3712" y="2688" width="128" height="128"/>
@@ -1022,13 +1027,11 @@
   <object id="94" gid="1" x="1920" y="128" width="128" height="128"/>
   <object id="95" gid="1" x="2176" y="128" width="128" height="128"/>
   <object id="96" gid="1" x="2432" y="128" width="128" height="128"/>
-  <object id="97" gid="1" x="3328" y="128" width="128" height="128"/>
   <object id="98" gid="1" x="2304" y="128" width="128" height="128"/>
   <object id="99" gid="1" x="256" y="128" width="128" height="128"/>
   <object id="100" gid="1" x="2560" y="128" width="128" height="128"/>
   <object id="101" gid="1" x="1536" y="128" width="128" height="128"/>
   <object id="102" gid="1" x="3072" y="128" width="128" height="128"/>
-  <object id="103" gid="1" x="3200" y="128" width="128" height="128"/>
   <object id="104" gid="1" x="2944" y="128" width="128" height="128"/>
   <object id="105" gid="1" x="2048" y="128" width="128" height="128"/>
   <object id="106" gid="1" x="2816" y="128" width="128" height="128"/>
@@ -1037,11 +1040,9 @@
   <object id="109" gid="1" x="2688" y="128" width="128" height="128"/>
   <object id="110" gid="1" x="1280" y="128" width="128" height="128"/>
   <object id="111" gid="1" x="640" y="128" width="128" height="128"/>
-  <object id="112" gid="1" x="3584" y="128" width="128" height="128"/>
   <object id="113" gid="1" x="896" y="128" width="128" height="128"/>
   <object id="114" gid="1" x="768" y="128" width="128" height="128"/>
   <object id="115" gid="1" x="384" y="128" width="128" height="128"/>
-  <object id="117" gid="1" x="3456" y="128" width="128" height="128"/>
   <object id="118" gid="1" x="1664" y="128" width="128" height="128"/>
   <object id="119" gid="1" x="512" y="128" width="128" height="128"/>
   <object id="229" gid="1" x="3072" y="256" width="128" height="128"/>
@@ -1134,9 +1135,6 @@
   <object id="399" gid="1" x="2816" y="1536" width="128" height="128"/>
   <object id="401" gid="1" x="2816" y="1408" width="128" height="128"/>
   <object id="402" gid="1" x="2816" y="1280" width="128" height="128"/>
-  <object id="405" gid="1" x="2816" y="896" width="128" height="128"/>
-  <object id="406" gid="1" x="2816" y="768" width="128" height="128"/>
-  <object id="407" gid="1" x="2944" y="768" width="128" height="128"/>
   <object id="408" gid="1" x="896" y="2176" width="128" height="128"/>
   <object id="409" gid="1" x="768" y="2176" width="128" height="128"/>
   <object id="410" gid="1" x="640" y="2176" width="128" height="128"/>
@@ -1144,8 +1142,6 @@
   <object id="414" gid="1" x="128" y="2176" width="128" height="128"/>
   <object id="415" type="barrel" gid="4" x="1024" y="512" width="128" height="128"/>
   <object id="416" type="barrel" gid="4" x="2304" y="512" width="128" height="128"/>
-  <object id="422" type="respaun" gid="17" x="3328" y="512" width="128" height="128"/>
-  <object id="423" type="respaun" gid="17" x="3456" y="3328" width="128" height="128"/>
   <object id="432" gid="105" x="1920" y="637.333" width="128" height="128"/>
   <object id="433" type="woodbox" gid="2" x="2048" y="1664" width="128" height="128"/>
   <object id="434" type="woodbox" gid="2" x="2048" y="1792" width="128" height="128"/>
@@ -1169,5 +1165,21 @@
   <object id="460" type="brickblock" gid="21" x="2560" y="2944" width="128" height="128"/>
   <object id="461" type="brickblock" gid="21" x="2944" y="2944" width="128" height="128"/>
   <object id="462" type="brickblock" gid="21" x="2816" y="2944" width="128" height="128"/>
+  <object id="494" name="bug" type="bug" gid="108" x="3072" y="0" width="128" height="128"/>
+  <object id="495" type="barrel" gid="109" x="3200" y="896" width="128" height="128"/>
+  <object id="496" type="barrel" gid="109" x="3328" y="896" width="128" height="128"/>
+  <object id="497" gid="1" x="3712" y="256" width="128" height="128"/>
+  <object id="498" gid="1" x="3712" y="384" width="128" height="128"/>
+  <object id="499" gid="1" x="3712" y="512" width="128" height="128"/>
+  <object id="500" gid="1" x="3712" y="640" width="128" height="128"/>
+  <object id="501" gid="1" x="3712" y="768" width="128" height="128"/>
+  <object id="502" gid="1" x="3712" y="128" width="128" height="128"/>
+  <object id="503" gid="1" x="3584" y="128" width="128" height="128"/>
+  <object id="504" gid="1" x="3456" y="128" width="128" height="128"/>
+  <object id="507" type="barrel" gid="109" x="3200" y="128" width="128" height="128"/>
+  <object id="508" type="barrel" gid="109" x="3328" y="128" width="128" height="128"/>
+  <object id="509" gid="17" x="3456" y="512" width="128" height="128"/>
+  <object id="510" gid="17" x="3456" y="3456" width="128" height="128"/>
+  <object id="511" gid="17" x="384" y="3456" width="128" height="128"/>
  </objectgroup>
 </map>

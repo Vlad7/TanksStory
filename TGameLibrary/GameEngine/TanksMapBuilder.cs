@@ -52,6 +52,11 @@ namespace TanksGameEngine.GameEngine
                         BuildRespaun(name, loc, size, shape, viewer);
                     }
                     break;
+                case "bug":
+                    {
+                        BuildBug(name, loc, size, shape, viewer);
+                    }
+                    break;
                 default:
                     {
                         BuildStandartObject(name, loc, size, shape, viewer);
@@ -223,6 +228,36 @@ namespace TanksGameEngine.GameEngine
             return obj;
         }
 
+        public Bug BuildBug(string name, Locator loc, Vector size, CollisionShape shape, Viewer viewer)
+        {
+            Bug obj = new Bug(name);
+
+            obj.Viewer = viewer;
+
+            obj.LocalCenter = loc.Center;
+            obj.LocalAngle = loc.Angle;
+            obj.LocalZIndex = loc.ZIndex;
+
+            obj.CollisionShape = shape;
+            obj.Size = size;
+
+            map.AddObject(obj);
+
+            obj.LocationChanged += map.UpdateObject;
+            obj.LocationChanged += GameProcess.Current_Game.Manager.RegisterObject;
+
+            obj.Crashed += map.RemoveObject;
+            obj.Crashed += GameProcess.Current_Game.Camera.TryRemoveIndicator;
+            obj.Crashed += GameProcess.Current_Game.Manager.UnRegisterObject;
+        
+
+            obj.LifeChanged += GameProcess.Current_Game.Camera.IndicateLifeChange;
+
+            return obj;
+        }
+
+
+
 
         object lockObj;
 
@@ -365,7 +400,7 @@ namespace TanksGameEngine.GameEngine
 
                     bl.Engine = engine;
 
-                    bl.Viewer = new Viewer(new Sprite("Maps /Textures/capsule.png", 30, 30));
+                    bl.Viewer = new Viewer(new Sprite("Maps /Textures/bullet.png", 30, 30));
 
                     bl.Size = new Vector(15, 15);
 

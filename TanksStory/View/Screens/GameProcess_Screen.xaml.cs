@@ -41,13 +41,34 @@ namespace TanksStory.View.Screens
 
             player.Play(); 
 
-            thread.Start();   
+            thread.Start();
+
+            GameObject gOjb = GProcess.gameMap.GetObject("bug");
+
+            if (gOjb != null)
+                gOjb.Crashed += Error_Occured;
+
+            
+
+           
+            
         }
 
         private void Media_Ended(object sender, EventArgs e)
         {
             player.Open(new Uri("Sounds/AirCorn.mp3", UriKind.Relative));
             player.Play();
+        }
+
+        private void Error_Occured(GameObject gObj)
+        {
+            Application.Current.Dispatcher.Invoke(() =>
+            {
+                Error_Screen screen = new Error_Screen();
+
+                ((Frame)App.Current.MainWindow.Content).Navigate(screen);
+            });
+           
         }
 
         private void btnClose_Click(object sender, RoutedEventArgs e)

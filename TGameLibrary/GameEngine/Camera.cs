@@ -176,6 +176,8 @@ namespace TanksGameEngine.GameEngine
             LifeIndicators.Add(new LifeIndicator(gObject, 1000));
         }
 
+      
+
         /// <summary>
         /// 
         /// </summary>
