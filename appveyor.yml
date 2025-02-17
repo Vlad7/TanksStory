@@ -25,6 +25,11 @@ deploy:
     branch: master
     appveyor_repo_tag: true
 
-environment:
-  DOTNET: '3.5'
+build:
+  before_build:
+    - del /q /f "C:\projects\tanksstory\TanksStory\bin"
+    - del /q /f "C:\projects\tanksstory\TanksStory\obj "
+    
+
+
 
