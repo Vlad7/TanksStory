@@ -11,6 +11,7 @@ D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\Controls
 D:\Study\III Курс\I Семестр\СТП - 2\TanksStory\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.csprojResolveAssemblyReference.cache
 D:\Projects\TanksStory\ControlsLibrary\bin\Debug\ControlsLibrary.dll
 D:\Projects\TanksStory\ControlsLibrary\bin\Debug\ControlsLibrary.pdb
+D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.AssemblyReference.cache
 D:\Projects\TanksStory\ControlsLibrary\obj\Debug\CarouselList.baml
 D:\Projects\TanksStory\ControlsLibrary\obj\Debug\CarouselList.g.cs
 D:\Projects\TanksStory\ControlsLibrary\obj\Debug\ControlsLibrary_MarkupCompile.cache
