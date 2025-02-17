@@ -25,10 +25,12 @@ deploy:
     branch: master
     appveyor_repo_tag: true
 
-build:
-  before_build:
-    - del /q /f "C:\projects\tanksstory\TanksStory\bin"
-    - del /q /f "C:\projects\tanksstory\TanksStory\obj "
+environment:
+  GH_TOKEN: $GH_TOKEN  # This will use the token stored in your AppVeyor settings
+
+build_script:
+  - git config --global url."https://$GH_TOKEN@github.com/".insteadOf "https://github.com/"
+  - git fetch origin
     
 
 
