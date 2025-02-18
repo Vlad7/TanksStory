@@ -2,7 +2,7 @@
 #define   ExeName    "TanksStory.exe"
                                           
 ; Êàòàëîã èñïîëíÿåìîãî ìîäóëÿ
-#define   AppDirectory "../TanksStory/bin/Release/"
+#define   AppDirectory "..\TanksStory\bin\Release\"
 
 ; Ñàôò ôèðìû ðàçðàáîò÷èêà
 #define   URL        "https://github.com/Vlad7/TanksStory"
