@@ -13,9 +13,6 @@
       "RelativeMoniker": "D:0:0:{8F4A3CA2-5BB8-4C0B-A758-F1DF9AFF55B9}|TanksStory\\TanksStory.csproj|solutionrelative:tanksstory\\view\\screens\\gameprocess_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9C01CA5-948D-48C8-8C05-7334619CFF29}|TGameLibrary\\TanksGameEngine.csproj|d:\\projects\\tanksstory\\tgamelibrary\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F4A3CA2-5BB8-4C0B-A758-F1DF9AFF55B9}|TanksStory\\TanksStory.csproj|d:\\projects\\tanksstory\\tanksstory\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
@@ -26,8 +23,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TanksStory",
+              "DocumentMoniker": "D:\\Projects\\TanksStory\\TanksStory\\TanksStory.csproj",
+              "RelativeDocumentMoniker": "TanksStory\\TanksStory.csproj",
+              "ToolTip": "D:\\Projects\\TanksStory\\TanksStory\\TanksStory.csproj",
+              "RelativeToolTip": "TanksStory\\TanksStory.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T19:29:42.499Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -41,20 +50,7 @@
               "ToolTip": "D:\\Projects\\TanksStory\\TGameLibrary\\TanksGameEngine.csproj",
               "RelativeToolTip": "TGameLibrary\\TanksGameEngine.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-17T19:31:38.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TanksStory",
-              "DocumentMoniker": "D:\\Projects\\TanksStory\\TanksStory\\TanksStory.csproj",
-              "RelativeDocumentMoniker": "TanksStory\\TanksStory.csproj",
-              "ToolTip": "D:\\Projects\\TanksStory\\TanksStory\\TanksStory.csproj",
-              "RelativeToolTip": "TanksStory\\TanksStory.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-17T19:29:42.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T19:31:38.639Z"
             },
             {
               "$type": "Document",
