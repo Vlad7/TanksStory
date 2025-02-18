@@ -1,5 +1,5 @@
 ##Game "Tanks Story" 
-<a href="https://ci.appveyor.com/project/Vlad7/tanksstory-df5fh">
+<a href="https://ci.appveyor.com/project/Vlad7/tanksstory">
         <img src="https://ci.appveyor.com/api/projects/status/github/Vlad7/TanksStory?branch=master&svg=true">
 </a>  
 
