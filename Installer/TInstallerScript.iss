@@ -31,7 +31,11 @@ AppId={{4D5CE2A1-9570-456B-82A7-39990D480B27}}
 
 
 ; Ïðî÷àÿ èíôîðìàöèÿ, îòîáðàæàåìàÿ ïðè óñòàíîâêå
+<<<<<<< HEAD
 ;AppName={#ExeName}
+=======
+;AppName={#Name}
+>>>>>>> 2147f0f676cab8d8cd03348ceecd54e48fc57ffc
 AppName={#ExeName}
 AppVersion=1.0.1
 ;AppVersion={#Version}

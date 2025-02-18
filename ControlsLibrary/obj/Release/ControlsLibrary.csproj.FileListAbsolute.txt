@@ -124,3 +124,4 @@ D:\Projects\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.Genera
 D:\Projects\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.CoreCompileInputs.cache
 D:\Projects\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.dll
 D:\Projects\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.pdb
+D:\Projects\TanksStory\ControlsLibrary\obj\Release\ControlsLibrary.csproj.AssemblyReference.cache

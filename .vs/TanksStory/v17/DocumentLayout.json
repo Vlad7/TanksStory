@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\TanksStory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F4A3CA2-5BB8-4C0B-A758-F1DF9AFF55B9}|TanksStory\\TanksStory.csproj|d:\\projects\\tanksstory\\sharedassemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4A3CA2-5BB8-4C0B-A758-F1DF9AFF55B9}|TanksStory\\TanksStory.csproj|solutionrelative:sharedassemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TanksStory||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
@@ -11,9 +15,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F4A3CA2-5BB8-4C0B-A758-F1DF9AFF55B9}|TanksStory\\TanksStory.csproj|D:\\Projects\\TanksStory\\tanksstory\\view\\screens\\gameprocess_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8F4A3CA2-5BB8-4C0B-A758-F1DF9AFF55B9}|TanksStory\\TanksStory.csproj|solutionrelative:tanksstory\\view\\screens\\gameprocess_screen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9C01CA5-948D-48C8-8C05-7334619CFF29}|TGameLibrary\\TanksGameEngine.csproj|d:\\projects\\tanksstory\\tgamelibrary\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F4A3CA2-5BB8-4C0B-A758-F1DF9AFF55B9}|TanksStory\\TanksStory.csproj|d:\\projects\\tanksstory\\tanksstory\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
@@ -26,7 +27,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,19 +35,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TanksGameEngine",
-              "DocumentMoniker": "D:\\Projects\\TanksStory\\TGameLibrary\\TanksGameEngine.csproj",
-              "RelativeDocumentMoniker": "TGameLibrary\\TanksGameEngine.csproj",
-              "ToolTip": "D:\\Projects\\TanksStory\\TGameLibrary\\TanksGameEngine.csproj",
-              "RelativeToolTip": "TGameLibrary\\TanksGameEngine.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-17T19:31:38.639Z",
+              "DocumentIndex": 0,
+              "Title": "SharedAssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\TanksStory\\SharedAssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SharedAssemblyInfo.cs",
+              "ToolTip": "D:\\Projects\\TanksStory\\SharedAssemblyInfo.cs",
+              "RelativeToolTip": "SharedAssemblyInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:09:40.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TanksStory",
               "DocumentMoniker": "D:\\Projects\\TanksStory\\TanksStory\\TanksStory.csproj",
               "RelativeDocumentMoniker": "TanksStory\\TanksStory.csproj",
@@ -59,6 +61,17 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TanksGameEngine",
+              "DocumentMoniker": "D:\\Projects\\TanksStory\\TGameLibrary\\TanksGameEngine.csproj",
+              "RelativeDocumentMoniker": "TGameLibrary\\TanksGameEngine.csproj",
+              "ToolTip": "D:\\Projects\\TanksStory\\TGameLibrary\\TanksGameEngine.csproj",
+              "RelativeToolTip": "TGameLibrary\\TanksGameEngine.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T19:31:38.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GameProcess_Screen.xaml",
               "DocumentMoniker": "D:\\Projects\\TanksStory\\TanksStory\\View\\Screens\\GameProcess_Screen.xaml",
               "RelativeDocumentMoniker": "TanksStory\\View\\Screens\\GameProcess_Screen.xaml",

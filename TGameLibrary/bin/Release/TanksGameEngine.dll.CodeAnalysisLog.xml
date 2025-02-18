@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="d:\program files (x86)\microsoft visual studio\2019\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
-<FxCopReport Version="16.0">
+<?xml-stylesheet type="text/xsl" href="d:\program files\visualstudio\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="17.0">
  <Targets>
   <Target Name="D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll">
    <Modules>
@@ -12,36 +12,36 @@
          <Members>
           <Member Name="#AllItems()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="105">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.AllItems()' could contain the following variables 'string.Format(CultureInfo.InvariantCulture, "Select * From {0}", ActiveRecord&lt;T&gt;.TableName)'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="105">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.AllItems()' could contain the following variables 'ActiveRecord&lt;T&gt;.TableName'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#Delete(System.Guid)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="238">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.Delete(Guid)' could contain the following variables 'string.Format(CultureInfo.InvariantCulture, "Delete from {0} where Id = @Id", ActiveRecord&lt;T&gt;.TableName)'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="238">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.Delete(Guid)' could contain the following variables 'ActiveRecord&lt;T&gt;.TableName'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#GetItem(System.Guid)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="141">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.GetItem(Guid)' could contain the following variables 'string.Format(CultureInfo.InvariantCulture, "Select * From {0} Where Id = @Id", ActiveRecord&lt;T&gt;.TableName)'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="141">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.GetItem(Guid)' could contain the following variables 'ActiveRecord&lt;T&gt;.TableName'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#Insert(!0)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="187">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.Insert(T)' could contain the following variables 'string.Format(CultureInfo.InvariantCulture, "Insert Into {0}({1}) Values(@{2})", ActiveRecord&lt;T&gt;.TableName, string.Join(", ", Params.Keys), string.Join(", @", Params.Keys))'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="187">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.Insert(T)' could contain the following variables 'ActiveRecord&lt;T&gt;.TableName', 'string.Join(", ", Params.Keys)', 'string.Join(", @", Params.Keys)'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#Update(!0)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="DependsOnFix">
-             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="218">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.Update(T)' could contain the following variables 'string.Format(CultureInfo.InvariantCulture, "Update {0} Set {1} Where Id = @Id", ActiveRecord&lt;T&gt;.TableName, string.Join(", ", ParamNames))'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Projects\TanksStory\TGameLibrary\GameEngine" File="ActiveRecord.cs" Line="218">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'ActiveRecord&lt;T&gt;.Update(T)' could contain the following variables 'ActiveRecord&lt;T&gt;.TableName', 'string.Join(", ", ParamNames)'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
             </Message>
            </Messages>
           </Member>
@@ -51,7 +51,7 @@
          <Members>
           <Member Name="#Crashed" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="Breaking">
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="Breaking">
              <Issue Name="First" Certainty="95" Level="Error">Declare the first parameter of 'Action&lt;GameObject&gt;' as an object named 'sender'.</Issue>
              <Issue Name="Second" Certainty="95" Level="Error">Declare the second parameter of 'Action&lt;GameObject&gt;' as an EventArgs, or an instance of a type that extends EventArgs, named 'e'.</Issue>
             </Message>
@@ -59,7 +59,7 @@
           </Member>
           <Member Name="#LifeChanged" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="Breaking">
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="Breaking">
              <Issue Name="First" Certainty="95" Level="Error">Declare the first parameter of 'Action&lt;GameObject&gt;' as an object named 'sender'.</Issue>
              <Issue Name="Second" Certainty="95" Level="Error">Declare the second parameter of 'Action&lt;GameObject&gt;' as an EventArgs, or an instance of a type that extends EventArgs, named 'e'.</Issue>
             </Message>
@@ -67,7 +67,7 @@
           </Member>
           <Member Name="#LocationChanged" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="Breaking">
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="Breaking">
              <Issue Name="First" Certainty="95" Level="Error">Declare the first parameter of 'Action&lt;GameObject&gt;' as an object named 'sender'.</Issue>
              <Issue Name="Second" Certainty="95" Level="Error">Declare the second parameter of 'Action&lt;GameObject&gt;' as an EventArgs, or an instance of a type that extends EventArgs, named 'e'.</Issue>
             </Message>
@@ -79,13 +79,13 @@
          <Members>
           <Member Name="#mciSendString(System.String,System.Text.StringBuilder,System.Int32,System.IntPtr)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="Breaking">
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="Breaking">
              <Issue Certainty="95" Level="CriticalWarning">Because it is a P/Invoke method, 'SoundManager.mciSendString(string, StringBuilder, int, IntPtr)' should be defined in a class named NativeMethods, SafeNativeMethods, or UnsafeNativeMethods.</Issue>
             </Message>
-            <Message Id="0" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="NonBreaking">
+            <Message Id="0" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="NonBreaking">
              <Issue Name="ParameterImplicitAnsi" Certainty="75" Level="Error">To reduce security risk, marshal parameter 'command' as Unicode, by setting DllImport.CharSet to CharSet.Unicode, or by explicitly marshaling the parameter as UnmanagedType.LPWStr. If you need to marshal this string as ANSI or system-dependent, specify MarshalAs explicitly, and set BestFitMapping=false; for added security, also set ThrowOnUnmappableChar=true.</Issue>
             </Message>
-            <Message Id="1" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2025-02-17 18:35:17Z" FixCategory="NonBreaking">
+            <Message Id="1" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2025-02-18 20:27:44Z" FixCategory="NonBreaking">
              <Issue Name="ParameterImplicitAnsi" Certainty="75" Level="Error">To reduce security risk, marshal parameter 'buffer' as Unicode, by setting DllImport.CharSet to CharSet.Unicode, or by explicitly marshaling the parameter as UnmanagedType.LPWStr. If you need to marshal this string as ANSI or system-dependent, specify MarshalAs explicitly, and set BestFitMapping=false; for added security, also set ThrowOnUnmappableChar=true.</Issue>
             </Message>
            </Messages>
@@ -109,7 +109,7 @@
    <Url>http://msdn.microsoft.com/library/ms182133.aspx</Url>
    <Email>[none]</Email>
    <MessageLevel Certainty="95">Error</MessageLevel>
-   <File Name="designrules.dll" Version="16.0.0.0" />
+   <File Name="designrules.dll" Version="17.0.0.0" />
   </Rule>
   <Rule TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060">
    <Name>Move P/Invokes to NativeMethods class</Name>
@@ -119,7 +119,7 @@
    <Url>http://msdn.microsoft.com/library/ms182161.aspx</Url>
    <Email>[none]</Email>
    <MessageLevel Certainty="95">CriticalWarning</MessageLevel>
-   <File Name="designrules.dll" Version="16.0.0.0" />
+   <File Name="designrules.dll" Version="17.0.0.0" />
   </Rule>
   <Rule TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100">
    <Name>Review SQL queries for security vulnerabilities</Name>
@@ -129,7 +129,7 @@
    <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
    <Email />
    <MessageLevel Certainty="75">Warning</MessageLevel>
-   <File Name="dataflowrules.dll" Version="16.0.0.0" />
+   <File Name="dataflowrules.dll" Version="17.0.0.0" />
   </Rule>
   <Rule TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101">
    <Name>Specify marshaling for P/Invoke string arguments</Name>
@@ -139,7 +139,7 @@
    <Url>http://msdn.microsoft.com/library/ms182319.aspx</Url>
    <Email>[none]</Email>
    <MessageLevel Certainty="75">Error</MessageLevel>
-   <File Name="globalizationrules.dll" Version="16.0.0.0" />
+   <File Name="globalizationrules.dll" Version="17.0.0.0" />
   </Rule>
  </Rules>
  <Localized>
