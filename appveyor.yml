@@ -28,10 +28,11 @@ deploy:
     #branch: master
     appveyor_repo_tag: true
 
-
-
 environment:
-  GH_TOKEN: $GH_TOKEN  # This will use the token stored in your AppVeyor settings
+  GH_TOKEN: AppVeyor
+
+#environment:
+ # GH_TOKEN: $GH_TOKEN  # This will use the token stored in your AppVeyor settings
 
 build_script:
   - git config --global url."https://$GH_TOKEN@github.com/".insteadOf "https://github.com/"
