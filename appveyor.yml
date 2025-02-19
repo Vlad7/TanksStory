@@ -9,7 +9,8 @@ artifacts:
 - path: Installer\Setup\*.exe
   type: WebDeployPackage
   name: InstallerPackage
-
+init:
+  - echo appveyor_repo_tag is %APPVEYOR_REPO_TAG%
 deploy:
   release: TanksStory-v$(appveyor_build_version)
   description: Another release
