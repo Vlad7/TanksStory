@@ -30,7 +30,7 @@ deploy:
 
 
   auth_token:
-    secure: Zy6iUO2uZudwaTkUDSz5UA==
+    secure: w3UBYemHFO+hBeeAygNOPA==
 
 environment:
   GH_TOKEN: $GH_TOKEN  # This will use the token stored in your AppVeyor settings
