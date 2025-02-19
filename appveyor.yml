@@ -21,9 +21,8 @@ deploy:
   artifact: InstallerPackage
   draft: false
   prerelease: false
-  on:
-    branch: master
-    appveyor_repo_tag: true
+  branch: master
+  appveyor_repo_tag: true
 
 environment:
   GH_TOKEN: $GH_TOKEN  # This will use the token stored in your AppVeyor settings
