@@ -18,8 +18,8 @@ deploy:
   description: Another release
   provider: GitHub
   tag: $(APPVEYOR_REPO_TAG_NAME)
-  auth_token:
-    secure: $(GH_TOKEN)  # Use the environment variable
+  #auth_token:
+  #  secure: $(GH_TOKEN)  # Use the environment variable
  
   artifact: InstallerPackage
   draft: false
@@ -27,6 +27,10 @@ deploy:
   on:
     #branch: master
     appveyor_repo_tag: true
+
+
+  auth_token:
+    secure: Zy6iUO2uZudwaTkUDSz5UA==
 
 environment:
   GH_TOKEN: $GH_TOKEN  # This will use the token stored in your AppVeyor settings
