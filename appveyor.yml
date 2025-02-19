@@ -15,9 +15,9 @@ deploy:
   description: Another release
   provider: GitHub
   tag: $(APPVEYOR_REPO_TAG_NAME)
-  
   auth_token:
-    secure: yGfoDNGuJ55NXDlZYvfz1g+NSN7INWIfcsaueunMM9M
+    secure: $(GH_TOKEN)  # Use the environment variable
+ 
   artifact: InstallerPackage
   draft: false
   prerelease: false
