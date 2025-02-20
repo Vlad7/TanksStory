@@ -31,8 +31,13 @@ AppId={{4D5CE2A1-9570-456B-82A7-39990D480B27}}
 
 
 ; Ïðî÷àÿ èíôîðìàöèÿ, îòîáðàæàåìàÿ ïðè óñòàíîâêå
-AppName={#Name}
-AppVersion={#Version}
+
+;AppName={#ExeName}
+;AppName={#Name}
+
+AppName=TanksStory.exe
+AppVersion=1.0.1
+;AppVersion={#Version}
 AppPublisher={#Publisher}
 AppPublisherURL={#URL}
 AppSupportURL={#URL}

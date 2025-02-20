@@ -1,75 +1,10 @@
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Release\TanksGameEngine.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Release\TanksGameEngine.pdb
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\bin\Release\TiledSharp.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\obj\Release\TanksGameEngine.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksGame\TGameLibrary\obj\Release\TanksGameEngine.pdb
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.pdb
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\bin\Release\TiledSharp.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.dll
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.pdb
-D:\Study\III Курс\I Семестр\СТП - 2\Project Tanks\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csprojResolveAssemblyReference.cache
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\bin\Release\TanksGameEngine.dll
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\bin\Release\TanksGameEngine.pdb
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\bin\Release\TiledSharp.dll
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\obj\Release\TanksGameEngine.csproj.AssemblyReference.cache
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\obj\Release\TanksGameEngine.csproj.CoreCompileInputs.cache
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\obj\Release\TanksGameEngine.csproj.CopyComplete
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\obj\Release\TanksGameEngine.dll
-C:\Users\Влад\Desktop\Новая папка\TanksStory-TanksStory-v1.0.17\TGameLibrary\obj\Release\TanksGameEngine.pdb
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\bin\Release\TanksGameEngine.dll
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\bin\Release\TanksGameEngine.pdb
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\bin\Release\TiledSharp.dll
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.AssemblyReference.cache
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CoreCompileInputs.cache
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CopyComplete
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\obj\Release\TanksGameEngine.dll
-C:\Users\Влад\Desktop\SladgesStory\SladgesStory\TGameLibrary\obj\Release\TanksGameEngine.pdb
-D:\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll
-D:\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.pdb
-D:\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
-D:\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
-D:\TanksStory\TGameLibrary\bin\Release\TiledSharp.dll
-D:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.AssemblyReference.cache
-D:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CoreCompileInputs.cache
-D:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CopyComplete
-D:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.dll
-D:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.pdb
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.pdb
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\bin\Release\TiledSharp.dll
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.AssemblyReference.cache
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CoreCompileInputs.cache
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CopyComplete
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.dll
-D:\TanksStoryCatarpillar\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.pdb
 D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll
 D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.pdb
 D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
 D:\Projects\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
 D:\Projects\TanksStory\TGameLibrary\bin\Release\TiledSharp.dll
+D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.AssemblyReference.cache
 D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CoreCompileInputs.cache
-D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CopyComplete
+D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGam.6480B0A8.Up2Date
 D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.dll
 D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.pdb
-D:\Projects\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.AssemblyReference.cache
-C:\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll
-C:\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.pdb
-C:\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.CodeAnalysisLog.xml
-C:\TanksStory\TGameLibrary\bin\Release\TanksGameEngine.dll.lastcodeanalysissucceeded
-C:\TanksStory\TGameLibrary\bin\Release\TiledSharp.dll
-C:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.AssemblyReference.cache
-C:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CoreCompileInputs.cache
-C:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.csproj.CopyComplete
-C:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.dll
-C:\TanksStory\TGameLibrary\obj\Release\TanksGameEngine.pdb

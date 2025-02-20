@@ -5,23 +5,43 @@ build:
   verbosity: minimal
 after_build:
 - cmd: packages\Tools.InnoSetup.5.5.8\tools\ISCC Installer\TInstallerScript.iss
+cache: #
+    - packages -> **\packages.config #
+configuration:
+  - Release
 artifacts:
 - path: Installer\Setup\*.exe
   type: WebDeployPackage
   name: InstallerPackage
-
+init:
+  - echo appveyor_repo_tag is %APPVEYOR_REPO_TAG%
 deploy:
   release: TanksStory-v$(appveyor_build_version)
   description: Another release
   provider: GitHub
+  on:
+    #branch: master
+    appveyor_repo_tag: true
   tag: $(APPVEYOR_REPO_TAG_NAME)
-  
   auth_token:
-    secure: DcbmWxnyCbOrvygq0dyUsI6ZTr9MQHjLQdIa2pL16P7JfvtnP4lLrUYNZcEUuobF
+    secure: kaRb/LvDLk1EXV1qsCWv1xFV1PJutsQjWP6B+m5O/RarMSi57s0H8A8+7cDdWRNy
+ 
   artifact: InstallerPackage
   draft: false
   prerelease: false
-  on:
-    branch: master
-    appveyor_repo_tag: true
+  force_update: true
+  
+
+environment:
+  GH_TOKEN: AppVeyor
+
+#environment:
+ # GH_TOKEN: $GH_TOKEN  # This will use the token stored in your AppVeyor settings
+
+build_script:
+  - git config --global url."https://$GH_TOKEN@github.com/".insteadOf "https://github.com/"
+  - git fetch origin
+    
+
+
 
