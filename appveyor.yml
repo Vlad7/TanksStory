@@ -17,6 +17,9 @@ deploy:
   release: TanksStory-v$(appveyor_build_version)
   description: Another release
   provider: GitHub
+  on:
+    #branch: master
+    appveyor_repo_tag: true
   tag: $(APPVEYOR_REPO_TAG_NAME)
   auth_token:
     secure: w3UBYemHFO+hBeeAygNOPA==
@@ -25,9 +28,7 @@ deploy:
   draft: false
   prerelease: false
   force_update: true
-  on:
-    #branch: master
-    appveyor_repo_tag: true
+  
 
 environment:
   GH_TOKEN: AppVeyor
