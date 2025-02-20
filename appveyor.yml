@@ -24,7 +24,7 @@ deploy:
     appveyor_repo_tag: true
   tag: $(APPVEYOR_REPO_TAG_NAME)
   auth_token:
-    secure: yGfoDNGuJ55NXDlZYvfz1g+NSN7INWIfcsaueunMM9M
+    secure: kaRb/LvDLk1EXV1qsCWv1xFV1PJutsQjWP6B+m5O/RarMSi57s0H8A8+7cDdWRNy
  
   artifact: InstallerPackage
   draft: false
