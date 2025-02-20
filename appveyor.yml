@@ -7,6 +7,8 @@ after_build:
 - cmd: packages\Tools.InnoSetup.5.5.8\tools\ISCC Installer\TInstallerScript.iss
 cache: #
     - packages -> **\packages.config #
+configuration:
+  - Release
 artifacts:
 - path: Installer\Setup\*.exe
   type: WebDeployPackage
